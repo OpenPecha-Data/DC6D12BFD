@@ -4930,151 +4930,151 @@ annotations:
     reference: ''
     span:
       start: 953390
-      end: 955197
+      end: 955196
   251c9dbf72644353b65b66f3846ada28:
     imgnum: 1374
     reference: ''
     span:
-      start: 955199
-      end: 956993
+      start: 955198
+      end: 956992
   7ef2f9f555b040af9622810e78423459:
     imgnum: 1375
     reference: ''
     span:
-      start: 956995
-      end: 958989
+      start: 956994
+      end: 958988
   eea7c968556c43aba127b6f7965663cf:
     imgnum: 1376
     reference: ''
     span:
-      start: 958991
-      end: 961106
+      start: 958990
+      end: 961105
   ea06046270124ee0b6bbf788aee8500e:
     imgnum: 1377
     reference: ''
     span:
-      start: 961108
-      end: 962838
+      start: 961107
+      end: 962837
   3a8332343ccd484f910eb7f32d44e600:
     imgnum: 1378
     reference: ''
     span:
-      start: 962840
-      end: 964833
+      start: 962839
+      end: 964832
   807be77dcec04d29969d1d4cec457343:
     imgnum: 1379
     reference: ''
     span:
-      start: 964835
-      end: 966678
+      start: 964834
+      end: 966677
   04969bebbe7d40ef9bccc6bd4cf2a1cf:
     imgnum: 1380
     reference: ''
     span:
-      start: 966680
-      end: 968452
+      start: 966679
+      end: 968451
   ffd8a6a57db3452aa3cd15e81a958798:
     imgnum: 1381
     reference: ''
     span:
-      start: 968454
-      end: 970101
+      start: 968453
+      end: 970100
   8065c4af46bc4ef280f03611c66af43d:
     imgnum: 1382
     reference: ''
     span:
-      start: 970103
-      end: 972116
+      start: 970102
+      end: 972115
   34cd5653452a49529bb38cebdbdb9f4c:
     imgnum: 1383
     reference: ''
     span:
-      start: 972118
-      end: 973926
+      start: 972117
+      end: 973925
   808771ee834645768f33155514bab94c:
     imgnum: 1384
     reference: ''
     span:
-      start: 973928
-      end: 975696
+      start: 973927
+      end: 975695
   92dda41ea37a454db3514157968234a4:
     imgnum: 1385
     reference: ''
     span:
-      start: 975698
-      end: 977405
+      start: 975697
+      end: 977404
   f7793a02b6c94d66b257c7acc32ed809:
     imgnum: 1386
     reference: ''
     span:
-      start: 977407
-      end: 979133
+      start: 977406
+      end: 979132
   9b22e3bb9c3e49baacd5305077e64c34:
     imgnum: 1387
     reference: ''
     span:
-      start: 979135
-      end: 981111
+      start: 979134
+      end: 981110
   b7093763c99b43f7942df750e5398ae7:
     imgnum: 1388
     reference: ''
     span:
-      start: 981113
-      end: 982975
+      start: 981112
+      end: 982974
   2950ddcae6b44fbc8e5ba41dd739457a:
     imgnum: 1389
     reference: ''
     span:
-      start: 982977
-      end: 984785
+      start: 982976
+      end: 984784
   186316dcc0ff4b519a31e9a06e7dd21f:
     imgnum: 1390
     reference: ''
     span:
-      start: 984787
-      end: 986693
+      start: 984786
+      end: 986692
   e82092ed764d432c8a3e664e8ac1e5f9:
     imgnum: 1391
     reference: ''
     span:
-      start: 986695
-      end: 988584
+      start: 986694
+      end: 988583
   8322b363966f4988b958b4f193dd19be:
     imgnum: 1392
     reference: ''
     span:
-      start: 988586
-      end: 990575
+      start: 988585
+      end: 990574
   d3cc20c0ea82433baaf8a65472d7a329:
     imgnum: 1393
     reference: ''
     span:
-      start: 990577
-      end: 992237
+      start: 990576
+      end: 992236
   da63f3c8e02243beb8fbbd6a86ac7698:
     imgnum: 1394
     reference: ''
     span:
-      start: 992239
-      end: 994012
+      start: 992238
+      end: 994011
   96f2a67ff57540cab5af52006495fedc:
     imgnum: 1395
     reference: ''
     span:
-      start: 994014
-      end: 995911
+      start: 994013
+      end: 995910
   c27ae28dd2bb46008e8cd1c79c55c8d8:
     imgnum: 1396
     reference: ''
     span:
-      start: 995913
-      end: 997768
+      start: 995912
+      end: 997767
   c13ae36be03946d8a9e8b3aae090d406:
     imgnum: 1397
     reference: ''
     span:
-      start: 997770
-      end: 997916
+      start: 997769
+      end: 997915
 local_ids:
   2f33743d1b4c4f77b732b7b15f869964: 200000
   3b52b3b2efc54ca1bdebfb513151da67: 200001
